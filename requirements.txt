@@ -1,3 +1,4 @@
 Marine-Traffic-API==0.20.1
 python-dotenv==0.15.0
 Flask==1.1.2
+gunicorn==20.0.4
