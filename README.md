@@ -12,4 +12,6 @@ To run this:
 5. Create a virtual environment `python -m venv venv`
 6. Activate the virtual environment `source venv/bin/activate`
 7. Install the dependencies: `pip install -r requirements.txt`
-8. Run the code: `python boat.py`
+8. Run the code: `flask run`
+
+[http://localhost:5000/boat](http://localhost:5000/boat)
