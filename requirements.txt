@@ -1,0 +1,2 @@
+Marine-Traffic-API==0.20.1
+python-dotenv==0.15.0
